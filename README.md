@@ -40,3 +40,10 @@ Sendo  que:
 
 
 Para mudar o tipo de entrada dos dados, você pode modificar a função `get_data`, dentro de `main.py` para interpretar os dados de acordo com o novo formato desejado.
+
+# Para rodar:
+`python main.py`
+
+
+# Requirements
+se estiver usando conda, importar ambiente com `conda env create -f deep_clustering.yml` (provavelmente nao precisa de utdo que ta lá, mas to sem vontade de ver o que precisa ou não)
