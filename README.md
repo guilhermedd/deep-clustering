@@ -15,9 +15,6 @@ O exemplo usa o dataset `AbnormalHeartbeat` no formato `.ts` (estilo UCR/UEA), c
 ├── kmeans.py # Classe KMeansClustering (fit, predict, visualizações)
 ├── main.py # Script principal (pipeline completo)
 ├── datasets/
-│ └── heart/
-│ ├── AbnormalHeartbeat_TRAIN.ts
-│ └── AbnormalHeartbeat_TEST.ts
 ├── encoder_model_tf/ # (gerado) pesos do encoder
 ├── decoder_model_tf/ # (gerado) pesos do decoder
 └── README.md
