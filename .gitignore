@@ -1,4 +1,5 @@
 __pycache__*
-*.zip
 *.png
 *_model_tf
+
+datasets/*
